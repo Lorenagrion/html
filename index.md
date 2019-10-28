@@ -18,18 +18,18 @@ Tenho domínio de diferentes sistemas acadêmicos, LMS’s e sistemas de gestão
 // Manipulação de SGBD (Modelagem, MySQL e POSTGRESQL); 
 
 ## Formação acadêmica
-### Universidade Federal do Rio de Janeiro
-**Mestrado em Sistemas de Computação**
+**Universidade Federal do Rio de Janeiro
+Mestrado em Sistemas de Computação**
 2019 – 2021
 
-### Cefet/RJ - Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
-**Especialização em Educação Tecnológica**
+**Cefet/RJ - Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
+Especialização em Educação Tecnológica**
 2018 – 2020
 
-### Instituto de Gestão e Tecnologia da Informação
-**MBA em Machine LearningÁrea de estudoTecnologia da Informação**
+**Instituto de Gestão e Tecnologia da Informação
+MBA em Machine LearningÁrea de estudoTecnologia da Informação**
 2017 – 2018
 
-### Universidade Estácio de Sá
-**Gestão Financeira**
+**Universidade Estácio de Sá
+Gestão Financeira**
 2014 – 2016
