@@ -1,4 +1,4 @@
-![pesquisa.JPG](src)
+![image](src="html/pesquisa.JPG")
 
 ## Lorena Pires Griõn
 
