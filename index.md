@@ -22,14 +22,14 @@ Tenho domínio de diferentes sistemas acadêmicos, LMS’s e sistemas de gestão
 **Mestrado em Sistemas de Computação**<br>
 2019 – 2021
 
-**Cefet/RJ - Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
-Especialização em Educação Tecnológica**
+**Cefet/RJ - Centro Federal de Educação Tecnológica Celso Suckow da Fonseca<br>
+Especialização em Educação Tecnológica**<br>
 2018 – 2020
 
-**Instituto de Gestão e Tecnologia da Informação
-MBA em Machine LearningÁrea de estudoTecnologia da Informação**
+**Instituto de Gestão e Tecnologia da Informação<br>
+MBA em Machine LearningÁrea de estudoTecnologia da Informação**<br>
 2017 – 2018
 
-**Universidade Estácio de Sá
-Gestão Financeira**
+**Universidade Estácio de Sá<br>
+Gestão Financeira**<br>
 2014 – 2016
