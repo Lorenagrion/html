@@ -1,0 +1,40 @@
+<html lan="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<meta name="desription" content="Uma página em html para aprendizagem">
+		<title> BLOCO DE ATIVIDADES PENDENTES </title>
+		<style>
+		h1{color:blue}
+		</style>
+	</head>
+	<body>
+<p><img src="pesquisa.jpg" width="330" height="400" alt="Lorena Pires Griõn" align="right"> </p>
+</p>
+<h1> BLOCO DE ATIVIDADES PENDENTES </h1><h2> MESTRADO </h2>
+<ul>	<li><b>Carlo </b><br></li>
+</ul><ol>	<li>&nbsp;Phyton</li>&nbsp;<a href='http://supygirls.pythonanywhere.com/supygirls/gamer/mary_shaw/roxanne#/' target="_blank">http://supygirls.pythonanywhere.com/supygirls/gamer/mary_shaw/roxanne#/ </a>
+		<li>&nbsp;Livro</li>
+		<li>&nbsp;Dissertação</li></ol>
+<ul><li><b>Claudinha</b></li><br></ul>
+<ol start="4">	<li>&nbsp;Apresentação<br></li>
+		<li>&nbsp;Nuvem<br></li> <a href="http://dontpad.com/lorenagrion/recsys/nuvempycharm" target="_blank"> http://dontpad.com/lorenagrion/recsys/nuvempycharm </a>
+
+</ol>
+
+<!-- ESSES SÃO OS COMENTÁRIOS DE ENTENDIMENTO DAS TAGS DO CÓDIGO:
+<p> parágrafo
+<b> negrito ou <strong>
+<em> ou <i> itálico
+<ul>lista os itens usam li
+<ol>lista organizada os itens usam <li>
+<dl>lista de descrição on itens usam dd
+&nbsp; utiliza espaço
+<pre> utiliza a pre-definição dos textos
+<h1><h2>.. Títulos em destaque hierarquico 
+<img src=""> entra com uma imagem
+<a href="" > "mensagem" </a> entra com um hiperlink, utiliza-se o target="_blank" para abrir uma outra página 
+-->
+
+</body>
+
+</html>
