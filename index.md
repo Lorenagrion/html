@@ -1,4 +1,4 @@
-![image](https://github.com/Lorenagrion/html/blob/master/pesquisa.JPG s=200)
+![image](https://github.com/Lorenagrion/html/blob/master/pesquisa.JPG)
 
 ## Lorena Pires Griõn
 
