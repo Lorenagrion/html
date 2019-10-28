@@ -1,3 +1,5 @@
+![pesquisa.jpg](src)
+
 ## Lorena Pires Griõn
 
 Mestranda em Informática - UFRJ | Analista de Informações Sênior - ILUMNO
@@ -32,13 +34,32 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+Formação acadêmica
+Universidade Federal do Rio de Janeiro
+Universidade Federal do Rio de Janeiro
+DiplomaMestrado em Tecnologia EducacionalÁrea de estudoInformática, Educação e Sociedade
+Período (ou ano previsto para a graduação)2019 – 2021
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+Cefet/RJ - Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
+Cefet/RJ - Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
+DiplomaEspecialização em Educação Tecnologia e suas RelaçõesÁrea de estudoEducação e Tecnologia
+Período (ou ano previsto para a graduação)2018 – 2020
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lorenagrion/html/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+Universidade Veiga de Almeida
+Universidade Veiga de Almeida
+DiplomaCiência da ComputaçãoÁrea de estudoTecnologia da Informação
+Período (ou ano previsto para a graduação)2017 – 2020
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+Instituto de Gestão e Tecnologia da Informação
+Instituto de Gestão e Tecnologia da Informação
+DiplomaMBA em Machine LearningÁrea de estudoTecnologia da Informação
+Período (ou ano previsto para a graduação)2017 – 2018
+
+
+Universidade Estácio de Sá
+Universidade Estácio de Sá
+DiplomaGestão FinanceiraÁrea de estudoContabilidade e FinançasNotaConcluída
+Período (ou ano previsto para a graduação)2014 – 2016
