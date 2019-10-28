@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Lorena Pires Griõn
 
-You can use the [editor on GitHub](https://github.com/Lorenagrion/html/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Mestranda em Informática - UFRJ | Analista de Informações Sênior - ILUMNO
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
