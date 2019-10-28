@@ -34,32 +34,19 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-Formação acadêmica
-Universidade Federal do Rio de Janeiro
-Universidade Federal do Rio de Janeiro
-DiplomaMestrado em Tecnologia EducacionalÁrea de estudoInformática, Educação e Sociedade
-Período (ou ano previsto para a graduação)2019 – 2021
+##Formação acadêmica
+###Universidade Federal do Rio de Janeiro
+Mestrado em Sistemas de Computação
+2019 – 2021
 
+###Cefet/RJ - Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
+Especialização em Educação Tecnológica
+2018 – 2020
 
-Cefet/RJ - Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
-Cefet/RJ - Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
-DiplomaEspecialização em Educação Tecnologia e suas RelaçõesÁrea de estudoEducação e Tecnologia
-Período (ou ano previsto para a graduação)2018 – 2020
+###Instituto de Gestão e Tecnologia da Informação
+MBA em Machine LearningÁrea de estudoTecnologia da Informação
+2017 – 2018
 
-
-Universidade Veiga de Almeida
-Universidade Veiga de Almeida
-DiplomaCiência da ComputaçãoÁrea de estudoTecnologia da Informação
-Período (ou ano previsto para a graduação)2017 – 2020
-
-
-Instituto de Gestão e Tecnologia da Informação
-Instituto de Gestão e Tecnologia da Informação
-DiplomaMBA em Machine LearningÁrea de estudoTecnologia da Informação
-Período (ou ano previsto para a graduação)2017 – 2018
-
-
-Universidade Estácio de Sá
-Universidade Estácio de Sá
-DiplomaGestão FinanceiraÁrea de estudoContabilidade e FinançasNotaConcluída
-Período (ou ano previsto para a graduação)2014 – 2016
+###Universidade Estácio de Sá
+Gestão Financeira
+2014 – 2016
