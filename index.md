@@ -1,4 +1,4 @@
-![pesquisa.jpg](src)
+![pesquisa.JPG](src)
 
 ## Lorena Pires Griõn
 
