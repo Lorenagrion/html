@@ -2,11 +2,18 @@
 
 Mestranda em Informática - UFRJ | Analista de Informações Sênior - ILUMNO
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Sobre
 
-### Markdown
+Com experiência em instituições de ensino superior desde 2011, e sendo estudante de tecnologias, vislumbrei ao longo dos anos a oportunidade de consolidação do meu conhecimento e experiência, me aplicando à pesquisa de tecnologias voltadas ao cenário educacional.
+Atualmente, trabalho com gestão do planejamento acadêmico em instituições de ensino superior, desenvolvendo soluções administrativas e financeiras para produtos educacionais com a ajuda de ferramentas de análises de dados.
+Estudante de Aprendizado de Máquina e Ciência da Computação, sou analista de dados e informações gerenciais.
+Tenho domínio de diferentes sistemas acadêmicos, LMS’s e sistemas de gestão de prova.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+// Professora de Excel;
+// Aprendiz do modelo mindset organizacional de crescimento;
+// Ferramentas de análise de dados (Power BI, Excel e Access);
+// Algoritmos (Java e Python);
+// Manipulação de SGBD (Modelagem, MySQL e POSTGRESQL); 
 
 ```markdown
 Syntax highlighted code block
